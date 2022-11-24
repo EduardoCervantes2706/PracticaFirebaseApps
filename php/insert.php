@@ -34,4 +34,4 @@ if($email == ""){
        echo " Signup failed " ;
 	}
    }
-}
+} //Cambio
